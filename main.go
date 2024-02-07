@@ -1,8 +1,6 @@
 package main
 
-import (
-	"main.go/cmd"
-)
+import "github.com/aydinnyunus/PassDetective/cmd"
 
 func main() {
 	cmd.Execute()
